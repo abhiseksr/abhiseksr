@@ -7,7 +7,7 @@ I'm a **Pre-Final Year IT** undergrad at **NIT-Jalandhar.**
 - 💻 I'm a **Competitive Programmer** passionate about solving Algorithmic Problems.   
   - ⚡ My Competitive Profiles  : [Codeforces- **Expert(Blue!)** ](https://codeforces.com/profile/abhishekjr) and [Codechef- **5⭐(Div. 1)**](https://codechef.com/users/abhishekjr) .  
 - 💬 Reach out to me for any help related to `Competitive Programming` 😄 
-- 📫 How to reach me: Drop a message at [**LinkedIn** ](https://www.linkedin.com/in/abhishek-kumar-7178741ba/) or mail at [**abhishekkumartbbt@gmail.com** ](mailto:abhishekkumartbbt@gmail.com) I will be more than happy to hear from you😇.
+- 📫 How to reach me: Drop a message at [**LinkedIn** ](https://www.linkedin.com/in/abhishek-kumar-7178741ba/) or mail at [**gmail** ](mailto:abhishekkumartbbt@gmail.com) I will be more than happy to hear from you😇.
 
 ![](https://komarev.com/ghpvc/?username=pawankholiya01&color=blue)
 
