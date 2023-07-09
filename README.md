@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">MERN stack web developement & competitive coding</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiseksr&label=Profile%20views&color=0e75b6&style=flat" alt="abhiseksr" /> </p>
+### Hi there 👋
+I'm a **Pre-Final Year CSE** undergrad at **NIT-Jalandhar.** 
 
-- 🔭 I’m currently working on [Codeforces](https://github.com/abhiseksr/codeforces-client)
+- 🔭 I’m currently working on `Web-Development` Projects that would create real world impact.
+- 🌱 I’m currently learning `Node JS` and `React JS`.      
+- 💭 I'm a Problem Solver and obsessed with the solving practical problems using technology as a source.    
+- 💻 I'm a **Competitive Programmer** passionate about solving Algorithmic Problems.   
+  - ⚡ My Competitive Profiles  : [Codeforces- **Expert(Blue!)** ](https://codeforces.com/profile/abhishekjr) and [Codechef- **5⭐(Div. 1)**](https://codechef.com/users/abhishekjr) .  
+- 💬 Reach out to me for any help related to `Competitive Programming` 😄 
+- 📫 How to reach me: Drop a message at [**LinkedIn** ](https://www.linkedin.com/in/abhishek-kumar-7178741ba/) or mail at [**abhishekkumartbbt@gmail.com** ](mailto:abhishekkumartbbt@gmail.com) I will be more than happy to hear from you😇.
 
-- 🌱 I’m currently learning **Networking for Backend Engineers**
-
-- 📫 How to reach me **abhishekk.it.20@nitj.ac.in**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QHbQyrxd3zJp-paTJ8veyOMJRvs3s27e/view?usp=drive_link](https://drive.google.com/file/d/1QHbQyrxd3zJp-paTJ8veyOMJRvs3s27e/view?usp=drive_link)
+![](https://komarev.com/ghpvc/?username=pawankholiya01&color=blue)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
