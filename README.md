@@ -1,4 +1,3 @@
-[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/506/510/desktop-wallpaper-mern-stack-full-stack-developer.jpg)]()
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">MERN stack web developement & competitive coding</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
