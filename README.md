@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a **Pre-Final Year CSE** undergrad at **NIT-Jalandhar.** 
+I'm a **Pre-Final Year IT** undergrad at **NIT-Jalandhar.** 
 
 - 🔭 I’m currently working on `Web-Development` Projects that would create real world impact.
 - 🌱 I’m currently learning `Node JS` and `React JS`.      
